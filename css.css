@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+  }
+  body {
+    color: darkred;
+  }
+  
+  h1 {
+    color: yellow;
+    margin-left: 20px;
+  }
+  p {
+    font-size: 30px;
+  }
